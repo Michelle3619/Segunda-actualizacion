@@ -1,0 +1,13 @@
+Lista de comandos
+git config --list
+git config --global user.name "name_user"
+git config --global user.email "email_name"
+gir config --list
+pwd
+cd
+ls
+git init
+git add
+clear 
+git commit
+
